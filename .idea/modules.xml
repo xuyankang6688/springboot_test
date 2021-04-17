@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_test.iml" filepath="$PROJECT_DIR$/springboot_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xihe-common/xihe-common.iml" filepath="$PROJECT_DIR$/xihe-common/xihe-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xihe-gatway/xihe-gatway.iml" filepath="$PROJECT_DIR$/xihe-gatway/xihe-gatway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xihe-man/xihe-man.iml" filepath="$PROJECT_DIR$/xihe-man/xihe-man.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xihe-service/xihe-service.iml" filepath="$PROJECT_DIR$/xihe-service/xihe-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xihe-women/xihe-women.iml" filepath="$PROJECT_DIR$/xihe-women/xihe-women.iml" />
+    </modules>
+  </component>
+</project>
