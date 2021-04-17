@@ -1,0 +1,8 @@
+server:
+  port: 8000
+spring:
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 42.192.169.94:8848
+        service: a
