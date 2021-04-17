@@ -8,6 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 @RestController
+@RequestMapping("/women")
 public class HelloWorldController {
 
     @Resource
@@ -16,6 +17,6 @@ public class HelloWorldController {
     @RequestMapping("/helloWorld")
     @ResponseBody
     public String helloWorld(){
-        return helloWorldService.HellWorld();
+        return "hello world WoMen";
     }
 }
