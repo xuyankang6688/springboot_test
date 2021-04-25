@@ -11,7 +11,7 @@ public class HelloWorldController {
     @RequestMapping("/helloWorld")
     @ResponseBody
     public String helloWorld(){
-        System.err.println("ooooooooo");
+        System.err.println("ooooooooo000000000");
         return "hello world Man";
     }
 }
